@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.linkedin.com/in/jennifer-zhan-430a25288'>Linkedin</a>Software Engineer | Women in Tech | GHC 2023
+subtitle: <a href='http://www.linkedin.com/in/jennifer-zhan-430a25288'> Linkedin </a> Software Engineer | Women in Tech | GHC 2023
 
 profile:
   align: right
@@ -12,11 +12,31 @@ profile:
     <p>☎️ 801-635-9932</p>
     <p>🏫 University of Utah</p>
     <p>📍 Salt Lake City, State 84108</p>
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
- I am a master of Software Development Student at University of Utah. I will graduate at December 2024, and am actively looking for Software Engineer internship for summer 2024.
+I'm in the groove with software development at the University of Utah and set to graduate in December 2024. I'm on the hunt for a full-stack development or cybersecurity internship and stoked to dive into the tech world headfirst.
+
+With a B.S. in Biological Science, which have granted me a unique lens to view and understand the world, enriching my approach to tech solutions.
+
+A bit more about me:
+
+🎯 I'm a goal-driven person (MBTI:ISTP)
+
+🍳 I like Asian food and creating new recipes
+
+📸 Photography: I like portrait photography and nature scenery 
+
+📚 The Courage to Be Disliked
+
+📺 Friends
+
+🎶Coldplay, Taylor Swift
+
+🎬 Soul, Little Woman
+
+🤝 Let's connect and make tech even more awesome!
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
