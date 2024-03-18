@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.linkedin.com/in/jennifer-zhan-430a25288'>Linkedin</a>Software Engineer | Women in Tech | GHC 2023
+subtitle: <a href='http://www.linkedin.com/in/jennifer-zhan-430a25288'>Linkedin</a>Software Engineer | Women in Tech | GHC 2023
 
 profile:
   align: right
