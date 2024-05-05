@@ -16,9 +16,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm in the groove with software development at the University of Utah and set to graduate in December 2024. I'm on the hunt for a full-stack development or cybersecurity internship and stoked to dive into the tech world headfirst.
-
-With a B.S. in Biological Science, which have granted me a unique lens to view and understand the world, enriching my approach to tech solutions.
+I’m deeply engaged in software development at the University of Utah, anticipating my graduation in December 2024. As an aspiring full-stack engineer with a keen interest in web development, I am actively seeking internships that allow me to apply my skills in full-stack development. My background in Biological Science provides a unique perspective, enhancing my approach to innovative tech solutions and enriching my problem-solving strategies in the tech landscape.
 
 A bit more about me:
 
