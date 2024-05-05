@@ -14,7 +14,4 @@ In this project, I developed a Sokoban game using C++ and the Simple and Fast Mu
         {% include figure.liquid loading="eager" path="assets/img/sokoban.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
