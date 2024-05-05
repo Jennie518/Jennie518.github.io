@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>☎️ 801-635-9932</p>
     <p>🏫 University of Utah</p>
-    <p>📍 Salt Lake City, State 84108</p>
+    <p>📍 Salt Lake City, United State 84108</p>
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
