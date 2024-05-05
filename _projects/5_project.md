@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Book Note
+description: A web application that lets users manage and review their book collection, featuring integration with the Open Library Covers API and built using Node.js, Express, and PostgreSQL for robust data management and presentation.
+img: assets/img/booknote.png
 importance: 3
-category: fun
+redirect: https://sive.rs/book
+category: Web development
 ---
 
 Every project has a beautiful feature showcase page.

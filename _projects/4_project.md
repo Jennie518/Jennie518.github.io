@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Sokoban
+description: A classic puzzle game of Sokoban, developed in C++ to challenge players with intricate levels where they push boxes to designated locations.
+img: /assets/img/Sokoban.jpg
 importance: 3
-category: fun
+category: Side project
 ---
 
 Every project has a beautiful feature showcase page.
