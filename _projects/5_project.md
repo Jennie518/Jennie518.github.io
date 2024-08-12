@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Book Note
-description: A web application that lets users manage and review their book collection, featuring integration with the Open Library Covers API and built using Node.js, Express, and PostgreSQL for robust data management and presentation.
-img: assets/img/booknote.png
+title: Learning Management System (LMS) Web Server
+description: I worked on developing and deploying the back-end of a Learning Management System (LMS) as part of a team. This project was particularly engaging as it required deep technical involvement and the use of modern tools to ensure robust, scalable, and secure application delivery.
+img: assets/img/LMS
 importance: 3
-redirect: https://sive.rs/book
+redirect: https://team7.dbproject.eng.utah.edu
 category: Web development
 ---
 
