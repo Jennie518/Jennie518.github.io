@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Learning Management System (LMS) Web Server
-description: I worked on developing and deploying the back-end of a Learning Management System (LMS) as part of a team. This project was particularly engaging as it required deep technical involvement and the use of modern tools to ensure robust, scalable, and secure application delivery.
-img: assets/img/LMS
+description: The LMS project is a web application built using ASP.NET Core, Entity Framework, and SQL for database management. It provides a platform for managing courses, student enrollments, and assignments. The system includes roles for students, professors, and administrators, with functionalities such as course creation, assignment submission, and grade management.
+img: /assets/img/LMS.png
 importance: 3
 redirect: https://team7.dbproject.eng.utah.edu
 category: Web development
